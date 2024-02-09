@@ -1,0 +1,12 @@
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\bin\Debug\net8.0\Application.deps.json
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\bin\Debug\net8.0\Application.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\bin\Debug\net8.0\Application.pdb
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\refint\Application.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.pdb
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\ref\Application.dll

@@ -1,0 +1,5 @@
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\ArchTests\obj\Debug\net8.0\ArchTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\ArchTests\obj\Debug\net8.0\ArchTests.AssemblyInfoInputs.cache
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\ArchTests\obj\Debug\net8.0\ArchTests.AssemblyInfo.cs
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\ArchTests\obj\Debug\net8.0\ArchTests.csproj.CoreCompileInputs.cache
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\ArchTests\obj\Debug\net8.0\ArchTests.sourcelink.json
