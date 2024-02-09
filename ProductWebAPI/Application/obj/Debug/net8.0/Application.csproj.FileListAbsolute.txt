@@ -10,3 +10,7 @@ D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Applica
 D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\refint\Application.dll
 D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.pdb
 D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\ref\Application.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\bin\Debug\net8.0\Domain.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\bin\Debug\net8.0\Domain.pdb
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\Application\obj\Debug\net8.0\Application.csproj.CopyComplete

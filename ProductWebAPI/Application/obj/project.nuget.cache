@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+jYGMkZKulDssfWMYeDwXQ+IeLWyxQOBU4xewsux30HE10xT9K0vJs63CJ1RqwzRt7XCVNCMF8jgJWF9gDAhAg==",
+  "dgSpecHash": "eOWfuqeQZyKphrRs4aJ98uGicftanfPVxV6jNQ1MroT8sQThs6MA3lx0mqsiTE/37/M1ban6gkmJdGWbrEP1zQ==",
   "success": true,
   "projectFilePath": "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
