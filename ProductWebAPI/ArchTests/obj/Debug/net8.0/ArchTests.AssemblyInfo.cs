@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd8aa84fcfbe048720278ab558216839dc474edd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff21eb1ccf458274cb8868507abe7a68815328d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

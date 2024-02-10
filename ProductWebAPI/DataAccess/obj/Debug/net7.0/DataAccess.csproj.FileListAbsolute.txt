@@ -1,0 +1,22 @@
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\Application.dll
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\Domain.dll
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\Application.pdb
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\bin\Debug\net7.0\Domain.pdb
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+D:\2023\Desarrollo_Software\MInimal_Api2\minimalAPI-main (1)\minimalAPI-main\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\2023\Desarrollo_Software\Proyectos\Github\ProductWebApi\ProductWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.pdb

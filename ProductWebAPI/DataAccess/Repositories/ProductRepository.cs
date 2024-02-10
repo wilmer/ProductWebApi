@@ -1,4 +1,4 @@
-﻿using Application.Abstractions;
+using Application.Abstractions;
 using DataAccess.Context;
 using Domain.Models;
 using Microsoft.EntityFrameworkCore;

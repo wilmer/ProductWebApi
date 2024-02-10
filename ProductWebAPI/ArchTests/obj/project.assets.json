@@ -4426,6 +4426,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Application >= 1.0.0",
+      "DataAccess >= 1.0.0",
       "Domain >= 1.0.0",
       "FluentAssertions >= 6.12.0",
       "Microsoft.NET.Test.Sdk >= 17.9.0",
@@ -4470,6 +4471,9 @@
           "projectReferences": {
             "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\Application\\Application.csproj": {
               "projectPath": "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\Application\\Application.csproj"
+            },
+            "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\DataAccess\\DataAccess.csproj"
             },
             "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\Domain\\Domain.csproj": {
               "projectPath": "D:\\2023\\Desarrollo_Software\\Proyectos\\Github\\ProductWebApi\\ProductWebAPI\\Domain\\Domain.csproj"
